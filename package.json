@@ -1,0 +1,25 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwenne/code-sydney-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwenne/code-sydney-tests/issues"
+  },
+  "homepage": "https://github.com/gwenne/code-sydney-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
